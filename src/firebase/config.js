@@ -2,13 +2,14 @@ import firebase from "firebase/compat/app";
 import 'firebase/compat/firestore'
 import 'firebase/compat/auth'
 
+// Replace with your firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyBN0rk1GlxR5vdXDUuEeLxAYKXn60OUP0I",
-  authDomain: "mymoney-b9425.firebaseapp.com",
-  projectId: "mymoney-b9425",
-  storageBucket: "mymoney-b9425.appspot.com",
-  messagingSenderId: "761257103631",
-  appId: "1:761257103631:web:ea49b54b02a15b640e6e7a"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
